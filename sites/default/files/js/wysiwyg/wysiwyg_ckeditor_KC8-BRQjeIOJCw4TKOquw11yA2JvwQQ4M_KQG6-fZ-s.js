@@ -1,0 +1,1 @@
+window.CKEDITOR_BASEPATH = '/drp/sites/all/libraries/ckeditor/';
